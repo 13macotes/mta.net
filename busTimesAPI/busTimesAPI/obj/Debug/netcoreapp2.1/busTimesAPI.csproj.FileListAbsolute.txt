@@ -1,0 +1,12 @@
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/bin/Debug/netcoreapp2.1/busTimesAPI.deps.json
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/bin/Debug/netcoreapp2.1/busTimesAPI.runtimeconfig.json
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/bin/Debug/netcoreapp2.1/busTimesAPI.runtimeconfig.dev.json
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/bin/Debug/netcoreapp2.1/busTimesAPI.dll
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/bin/Debug/netcoreapp2.1/busTimesAPI.pdb
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/obj/Debug/netcoreapp2.1/busTimesAPI.csprojAssemblyReference.cache
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/obj/Debug/netcoreapp2.1/busTimesAPI.csproj.CoreCompileInputs.cache
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/obj/Debug/netcoreapp2.1/busTimesAPI.AssemblyInfoInputs.cache
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/obj/Debug/netcoreapp2.1/busTimesAPI.AssemblyInfo.cs
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/obj/Debug/netcoreapp2.1/busTimesAPI.dll
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/obj/Debug/netcoreapp2.1/busTimesAPI.pdb
+/Users/user1/C# Code/busTimesAPI/busTimesAPI/bin/Debug/netcoreapp2.1/token.txt

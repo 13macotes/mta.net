@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "ccf4db4bfc9afa559215f275489a21196b0d7b50"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "busTimesAPI/1.0.0": {
+        "dependencies": {
+          "JSON": "1.0.1",
+          "System.Json": "4.5.0"
+        },
+        "runtime": {
+          "busTimesAPI.dll": {}
+        }
+      },
+      "JSON/1.0.1": {
+        "runtime": {
+          "lib/net40/Json.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "System.Json/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Json.dll": {
+            "assemblyVersion": "2.0.6.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "busTimesAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JSON/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J047Ogt+foe5PqavBwkOwHuLPV499b0fV9ajpCX5HOM/RFmZSVxrpeNYVArKeL/vCOskv686K+NMSgmFQ8nWzQ==",
+      "path": "json/1.0.1",
+      "hashPath": "json.1.0.1.nupkg.sha512"
+    },
+    "System.Json/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YIbZuXh5pInsAoI/MzLtAX+6XEqSLaO5NcE3lkM7tcY/Qb9xudamYe1/cg7KMKBRQyk1SFVD2iA2SCZtS7fs9w==",
+      "path": "system.json/4.5.0",
+      "hashPath": "system.json.4.5.0.nupkg.sha512"
+    }
+  }
+}
